@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="100" src="HTML\IMG\logo_rundiabete.png" alt="RunDIABETE">
+  <img width="300" src="HTML\IMG\logo_rundiabete.png" alt="RunDIABETE">
   <br />
   <br />
 </p>
