@@ -2,7 +2,7 @@
 
 <p align="center">
   <br />
-  <img width="100" src="HTML/IMG/logo-rundiabete.png" alt="Tailwind CSS logo">
+  <img width="100" src="HTML\IMG\logo_rundiabete.png" alt="RunDIABETE">
   <br />
   <br />
 </p>
@@ -10,7 +10,7 @@
 <h2 align="center">Kit RunDIABETE</h2>
 
 <p align="center">
-  <a href="https://etp-lareunion.github.io/kit-rundiabete">Kit du programme d'éducation thérapeutique (ETP) RunDIABETE</a> : déroulés des séances, outils, évaluations, etc. 
+  <a href="https://etp-lareunion.github.io/Kit-RunDIABETE/">Kit du programme d'éducation thérapeutique (ETP) RunDIABETE</a> : déroulés des séances, outils, évaluations, etc. 
 
   <br />
   <br />
