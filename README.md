@@ -26,7 +26,7 @@
 ## Comment télécharger le Kit RunDIABETE en PDF ? 
 
 - Aller sur cette page : https://github.com/etp-lareunion/Kit-RunDIABETE
-- Cliquer sur le boutton "Code" puis "Download ZIP". 
+- Cliquer sur le bouton "Code" puis "Download ZIP". 
 - Après le téléchargement du dossier, décompressez-le (https://cours-informatique-gratuit.fr/tutoriels/compresser-et-decompresser-des-dossiers/).
 - Vous aurez accès à l'ensemble du kit dans le dossier "PDF". 
 
